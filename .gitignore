@@ -1,0 +1,20 @@
+# Xcode: your personal settings (window layout, breakpoints, schemes)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode: build output
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS junk files
+.DS_Store
+._*
