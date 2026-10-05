@@ -6,7 +6,7 @@ What's nice about it:
 
 Your data stays on your phone. No account, servers or tracking. 
 
-It tells you why you feel off! Each phase comes with plain notes on energy, mood, skin, cravings and bloating (yes, the scale going up before your period is just water).
+It tells you why you feel off! Each phase comes with plain notes on energy, mood, skin, cravings and bloating.
 
 One-tap logging right from a notification or the widget, so you don't have to open the app every time.
 
