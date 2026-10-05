@@ -2,7 +2,7 @@
 //
 //  MODEL:
 
-//  Everything Tide knows about your cycle ( fix cycledata before widget **)
+//  Everything Tide knows about your cycle
 //   +  all the math worked out from them:
 //  1. what day of the cycle it is
 //  2. which phase you're in
